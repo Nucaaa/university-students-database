@@ -1,6 +1,6 @@
-I am happy to share my project at Skillwill • სქილვილ   🚀
+I am happy to share my project at Skillwill • სქილვილ   
 
-University students database. 🚀
+University students database. 
 
 I made university systems database.
 There are tables of university, lecturer, students and other, also there are relationships and scripts.
